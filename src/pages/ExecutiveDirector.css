@@ -1,0 +1,29 @@
+.eximg{
+    margin: auto;
+    display: block;
+    border-radius: 40%;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+.executivedirector{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.eximgp{
+    margin: auto;
+    display: block;
+    size: 1000%;
+    border-radius: 40%;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+.principal
+{
+    text-align: center;
+}
